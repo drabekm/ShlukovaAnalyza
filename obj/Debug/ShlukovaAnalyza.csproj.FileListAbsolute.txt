@@ -1,0 +1,10 @@
+C:\Users\matej\source\repos\ShlukovaAnalyza\ShlukovaAnalyza\bin\Debug\ShlukovaAnalyza.exe.config
+C:\Users\matej\source\repos\ShlukovaAnalyza\ShlukovaAnalyza\bin\Debug\ShlukovaAnalyza.exe
+C:\Users\matej\source\repos\ShlukovaAnalyza\ShlukovaAnalyza\bin\Debug\ShlukovaAnalyza.pdb
+C:\Users\matej\source\repos\ShlukovaAnalyza\ShlukovaAnalyza\obj\Debug\ShlukovaAnalyza.csprojAssemblyReference.cache
+C:\Users\matej\source\repos\ShlukovaAnalyza\ShlukovaAnalyza\obj\Debug\ShlukovaAnalyza.Properties.Resources.resources
+C:\Users\matej\source\repos\ShlukovaAnalyza\ShlukovaAnalyza\obj\Debug\ShlukovaAnalyza.csproj.GenerateResource.cache
+C:\Users\matej\source\repos\ShlukovaAnalyza\ShlukovaAnalyza\obj\Debug\ShlukovaAnalyza.csproj.CoreCompileInputs.cache
+C:\Users\matej\source\repos\ShlukovaAnalyza\ShlukovaAnalyza\obj\Debug\ShlukovaAnalyza.exe
+C:\Users\matej\source\repos\ShlukovaAnalyza\ShlukovaAnalyza\obj\Debug\ShlukovaAnalyza.pdb
+C:\Users\matej\source\repos\ShlukovaAnalyza\ShlukovaAnalyza\obj\Debug\ShlukovaAnalyza.Form1.resources
